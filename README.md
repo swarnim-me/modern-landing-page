@@ -19,7 +19,7 @@ Card 4: ZenScape Studios
 "Minimalist designs for a tranquil and harmonious home."
 
 Quote:
-"Shaping the future of living, one modern design at a time."
+"Your home should tell the story of who you are, and be a collection of what you love." - Nate Berkus
 
 Color Scheme:
 
