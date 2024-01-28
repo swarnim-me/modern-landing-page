@@ -50,7 +50,7 @@ a {
     font-weight: 400;
     font-family: 'Merriweather';
     color: white;
-    text-shadow: 0 0 5px black;
+    text-shadow: 0 0 2px black;
 }
 
 .landing-section {
@@ -126,7 +126,7 @@ a {
 .cards-title {
     font-family: 'Playfair Display';
     color: white;
-    padding-top: 50px;
+    padding-top: 100px;
     font-weight: 300;
     font-size: 3rem;
     text-align: center;
@@ -145,7 +145,7 @@ a {
     flex-wrap: wrap;
     gap: 40px;
     flex: 1;
-    margin: 50px 0;
+    margin-bottom: 50px;
 }
 
 .image-container {
