@@ -47,8 +47,8 @@ ul.nav-links {
 }
 
 a {
-    font-family: 'Roboto', sans-serif;
     font-weight: 400;
+    font-family: 'Merriweather';
     color: white;
     text-shadow: 0 0 5px black;
 }
@@ -228,6 +228,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
     background: rgba(28, 28, 28, 0.292);
     border-radius: 12px;
     color: white;
@@ -241,4 +242,15 @@ a {
     font-family: 'Merriweather';
     line-height: 30px;
     text-align: justify;
+    width: 75%;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: black;
+    color: white;
+    padding: 20px;
+    font-family: 'Merriweather';
 }
